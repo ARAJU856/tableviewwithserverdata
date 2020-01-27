@@ -1,0 +1,6 @@
+framework module Pods_tableviewwithserverdata {
+  umbrella header "Pods-tableviewwithserverdata-umbrella.h"
+
+  export *
+  module * { export * }
+}
